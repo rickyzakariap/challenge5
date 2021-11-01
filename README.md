@@ -1,8 +1,7 @@
-# challenge5
-Binar Challenge 5
+# Binar Challenge 5
 
-Thanks to :
-Allah SWT
-Semua fasil, Mas Temmy dan Mas Sandy
-Teman saya, mas Affan dan mas Medhawi
-Spesial juga untuk fasil wave sebelah, @saefullohmaslul
+Thanks to : <br>
+Allah SWT <br>
+Semua fasil, Mas Temmy dan Mas Sandy <br>
+Teman saya, terutama mas Affan dan mas Medhawi <br>
+Spesial juga untuk fasil wave sebelah, [Saefulloh Maslul](https://github.com/saefullohmaslul)
